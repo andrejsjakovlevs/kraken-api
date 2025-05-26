@@ -1,5 +1,5 @@
 {
-  "name": "hanischit/kraken-api",
+  "name": "andrejsjakovlevs/kraken-api",
   "description": "A API-Client for the crypto market Kraken.com.",
   "type": "library",
   "license": "MIT",
@@ -18,9 +18,8 @@
     }
   ],
   "require": {
-    "php": ">=5.5",
-    "guzzlehttp/guzzle": "^6.3"
-
+    "php": ">=7.2.5",
+    "guzzlehttp/guzzle": "^7.4.5"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.8",
